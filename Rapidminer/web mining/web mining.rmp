@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="true" class="web:get_webpage" compatibility="9.0.000" expanded="true" height="68" name="Get Page" width="90" x="45" y="34">
-        <parameter key="url" value="https://www.niagahoster.co.id/blog/bisnis-digital/"/>
+        <parameter key="url" value="http://plaza-bisnis.com/ide-bisnis-digital/"/>
         <parameter key="random_user_agent" value="false"/>
         <parameter key="connection_timeout" value="10000"/>
         <parameter key="read_timeout" value="10000"/>
@@ -38,7 +38,7 @@
         <parameter key="ignore_non_html_tags" value="true"/>
       </operator>
       <operator activated="true" class="web:get_webpage" compatibility="9.0.000" expanded="true" height="68" name="Get Page (2)" width="90" x="45" y="136">
-        <parameter key="url" value="https://www.dbs.com/indonesia-bh/blog/live-smart/4-ide-bisnis-digital-sukses-untuk-anda-coba.page"/>
+        <parameter key="url" value="http://www.abdulmutrib.com/7-contoh-ide-produk-digital-yang-berpotensi-besar-di-pasaran/"/>
         <parameter key="random_user_agent" value="false"/>
         <parameter key="connection_timeout" value="10000"/>
         <parameter key="read_timeout" value="10000"/>
@@ -63,7 +63,7 @@
         <parameter key="ignore_non_html_tags" value="true"/>
       </operator>
       <operator activated="true" class="web:get_webpage" compatibility="9.0.000" expanded="true" height="68" name="Get Page (3)" width="90" x="45" y="238">
-        <parameter key="url" value="https://idwebhost.com/blog/peluang-bisnis-digital/"/>
+        <parameter key="url" value="https://www.niagahoster.co.id/blog/bisnis-digital/"/>
         <parameter key="random_user_agent" value="false"/>
         <parameter key="connection_timeout" value="10000"/>
         <parameter key="read_timeout" value="10000"/>
@@ -88,7 +88,7 @@
         <parameter key="ignore_non_html_tags" value="true"/>
       </operator>
       <operator activated="true" class="web:get_webpage" compatibility="9.0.000" expanded="true" height="68" name="Get Page (4)" width="90" x="45" y="340">
-        <parameter key="url" value="https://idcloudhost.com/contoh-bisnis-digital-yang-bisa-dicoba-dengan-hasil-bagus/"/>
+        <parameter key="url" value="https://vatih.com/bisnis/produk-digital/"/>
         <parameter key="random_user_agent" value="false"/>
         <parameter key="connection_timeout" value="10000"/>
         <parameter key="read_timeout" value="10000"/>
@@ -113,7 +113,7 @@
         <parameter key="ignore_non_html_tags" value="true"/>
       </operator>
       <operator activated="true" class="web:get_webpage" compatibility="9.0.000" expanded="true" height="68" name="Get Page (5)" width="90" x="45" y="442">
-        <parameter key="url" value="https://koinworks.com/blog/membuat-bisnis-online-digital-teknologi/"/>
+        <parameter key="url" value="http://panduanim.com/membuat-dan-menjual-produk-digital/"/>
         <parameter key="random_user_agent" value="false"/>
         <parameter key="connection_timeout" value="10000"/>
         <parameter key="read_timeout" value="10000"/>
