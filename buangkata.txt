@@ -778,4 +778,9 @@ udah
 udh
 ri
 ma
+.
+,
+dan
+;
+
 
